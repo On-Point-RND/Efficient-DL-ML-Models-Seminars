@@ -1,0 +1,37 @@
+2025-01-05 17:53:06.657 | INFO     | validation:get_human_readable_size:70 - Getting model file size
+2025-01-05 17:53:06.657 | SUCCESS  | validation:get_human_readable_size:85 - Model size was computed: {'model size': '25.09 MB'}
+2025-01-05 17:53:56.029 | INFO     | validation:get_human_readable_size:68 - Getting model file size
+2025-01-05 17:53:56.029 | SUCCESS  | validation:get_human_readable_size:83 - Model size was computed: {'model size': '25.09 MB'}
+2025-01-05 18:19:26.701 | INFO     | validation:get_human_readable_size:68 - Getting model file size
+2025-01-05 18:19:26.702 | SUCCESS  | validation:get_human_readable_size:83 - Model size was computed: {'model size': '9.51 MB'}
+2025-01-05 18:20:10.519 | INFO     | validation:quality_validation:48 - Running performance validation MSE and JACCARD
+2025-01-05 18:21:11.365 | INFO     | validation:quality_validation:48 - Running performance validation MSE and JACCARD
+2025-01-05 18:22:56.188 | SUCCESS  | validation:quality_validation:63 - Metrics were computed:{'MSE': 1751930.6422535211, 'JACCARD': 24880.123943661973}
+2025-01-05 18:22:56.463 | INFO     | validation:quality_validation:48 - Running performance validation MSE and JACCARD
+2025-01-05 18:24:46.827 | SUCCESS  | validation:quality_validation:63 - Metrics were computed:{'MSE': 1751930.6422535211, 'JACCARD': 24880.123943661973}
+2025-01-05 18:26:21.928 | SUCCESS  | validation:quality_validation:63 - Metrics were computed:{'MSE': 1433386.6507042253, 'JACCARD': 25478.647887323943}
+2025-01-05 18:26:21.928 | INFO     | validation:get_human_readable_size:68 - Getting model file size
+2025-01-05 18:26:21.928 | SUCCESS  | validation:get_human_readable_size:83 - Model size was computed: {'model size': '25.09 MB'}
+2025-01-05 19:22:01.253 | INFO     | validation:time_examine:113 - Time validation started
+2025-01-05 19:22:31.215 | INFO     | validation:time_lopp:109 - Execution time for model  (using naive approach): 0.2895 +/- 0.0470
+2025-01-05 19:22:31.462 | SUCCESS  | validation:time_examine:133 - Time estimation was finished: {'time ms': 186.017} 
+2025-01-05 19:22:31.631 | INFO     | validation:time_examine:113 - Time validation started
+2025-01-05 19:23:12.404 | INFO     | validation:time_lopp:109 - Execution time for model  (using naive approach): 0.3950 +/- 0.0283
+2025-01-05 19:23:12.627 | SUCCESS  | validation:time_examine:133 - Time estimation was finished: {'time ms': 245.47866666666667} 
+2025-01-05 19:23:12.627 | INFO     | validation:get_human_readable_size:74 - Getting model file size
+2025-01-05 19:23:12.628 | SUCCESS  | validation:get_human_readable_size:89 - Model size was computed: {'model size': '25.09 MB'}
+2025-01-05 19:27:12.401 | INFO     | validation:time_examine:113 - Time validation started
+2025-01-05 19:27:50.505 | INFO     | validation:time_lopp:109 - Execution time for model  (using naive approach): 0.3703 +/- 0.0444
+2025-01-05 19:28:33.090 | INFO     | validation:time_examine:113 - Time validation started
+2025-01-05 19:29:10.380 | INFO     | validation:time_lopp:109 - Execution time for model  (using naive approach): 0.3610 +/- 0.0237
+2025-01-05 19:29:10.581 | SUCCESS  | validation:time_examine:133 - Time estimation was finished: {'time ms': 239.01766666666666} 
+2025-01-05 19:29:10.581 | INFO     | validation:quality_validation:54 - Running performance validation MSE and JACCARD
+2025-01-05 19:32:09.316 | SUCCESS  | validation:quality_validation:69 - Metrics were computed:{'MSE': 1433386.6507042253, 'JACCARD': 25478.647887323943}
+2025-01-05 19:32:09.316 | INFO     | validation:get_human_readable_size:74 - Getting model file size
+2025-01-05 19:32:09.316 | SUCCESS  | validation:get_human_readable_size:89 - Model size was computed: {'model size': '25.09 MB'}
+2025-01-05 19:32:57.797 | INFO     | validation:time_examine:113 - Time validation started
+2025-01-05 19:33:38.184 | INFO     | validation:time_lopp:109 - Execution time for model  (using naive approach): 0.3920 +/- 0.0400
+2025-01-05 19:33:38.387 | SUCCESS  | validation:time_examine:133 - Time estimation was finished: {'time ms': 226.11166666666668} 
+2025-01-05 19:33:38.387 | INFO     | validation:quality_validation:54 - Running performance validation MSE and JACCARD
+2025-01-05 20:07:57.126 | INFO     | validation:quality_validation:54 - Running performance validation MSE and JACCARD
+2025-01-05 20:11:33.531 | INFO     | validation:quality_validation:54 - Running performance validation MSE and JACCARD
